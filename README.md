@@ -6,7 +6,11 @@ Detect the type of activity performing by a human subject by using his/her smart
 ## About The Project
 
 ### Problem Statement
+Domain experts from the field of Signal Processing collects the data from Accelerometer and Gyroscope of Smartphone. They break up the data in the time window of 2.56 seconds with 50% overlapping i.e., 128 reading
 
+They engineered 561 features from each time window of 2.56 seconds.
+
+By using either human engineered 561 feature data or raw features of 128 reading, our goal is to predict one of the six activities that a Smartphone user is performing at that 2.56 Seconds time window
 
 ## Approach
 
