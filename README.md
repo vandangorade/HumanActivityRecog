@@ -12,8 +12,7 @@ Detect the type of activity performing by a human subject by using his/her smart
 
 1) We will apply classical Machine Learning models on these 561 sized domain expert engineered features.
 
-2)As we know that LSTM works well on time-series data, so we have decided that we will apply LSTM of Recurrent Neural Networks on 128 sized raw readings that we               
-  obtained from accelerometer and gyroscope signals.
+2)As we know that LSTM works well on time-series data, so we have decided that we will apply LSTM of Recurrent Neural Networks on 128 sized raw readings that we               obtained from accelerometer and gyroscope signals.
 
 ### Built With
 ```sh
